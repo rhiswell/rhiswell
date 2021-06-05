@@ -10,6 +10,9 @@ Hi! I'm a PhD student working on networking systems. Welcome to my hub!
 
 :chart_with_upwards_trend: My GitHub stats and most used languages:
 
-![Github stats card](https://github-readme-stats.vercel.app/api?username=rhiswell&count_private=true&show_icons=true&custom_title=GitHub%20Stats)
-
-![Top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiswell&hide=javascript,html&layout=compact)
+<details>
+<summary>Click to expand!</summary>
+  
+  - ![Github stats card](https://github-readme-stats.vercel.app/api?username=rhiswell&count_private=true&show_icons=true&custom_title=GitHub%20Stats)
+  - ![Top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiswell&hide=javascript,html&layout=compact)
+</details>
