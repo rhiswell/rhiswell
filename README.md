@@ -2,10 +2,11 @@ Hi! I'm a PhD student working on networking systems. Welcome to my hub!
 
 :computer: Projects I'm working on:
 
-- Building a scalable and RMA-capable networking for the datacenter.
+- Systems and networking for XPU disaggregation
 
 :hammer_and_wrench: Systems I've built:
 
+- RoUD: Scalable RDMA over X-UD in Datacenter Networks. To be published!
 - MasQ: an efficient method to expose RDMA in the public (multi-tenant) cloud. Details can refer to our [SIGCOMM paper](https://dl.acm.org/doi/10.1145/3387514.3405849). This work was done during my internship at the computer networks lab of Huawei.
 
 :chart_with_upwards_trend: My GitHub stats and most used languages:
