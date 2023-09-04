@@ -2,10 +2,11 @@ Hi! I'm a PhD student working on networking systems. Welcome to my hub!
 
 :computer: Projects I'm working on:
 
-- RDMA over lossy Ethernet
+- TBD
 
 :hammer_and_wrench: Systems I've built:
 
+- xDMA: accelerate intra-host RDMA communication with Intel I/OAT DMAs
 - RoUD: a case for building a scalable and high-performance RDMA service over UD on lossy data center networks.
 - MasQ: an efficient method to expose RDMA in the public (multi-tenant) cloud. Details can refer to our [SIGCOMM paper](https://dl.acm.org/doi/10.1145/3387514.3405849). This work was done during my internship at the computer networks lab of Huawei.
 
